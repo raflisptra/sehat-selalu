@@ -1,0 +1,4 @@
+components/herbalsainsid/herbalData.ts(48,5): error TS2741: Property '$$typeof' is missing in type 'IconType' but required in type 'ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>'.
+components/herbalsainsid/herbalData.ts(65,5): error TS2741: Property '$$typeof' is missing in type 'IconType' but required in type 'ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>'.
+components/herbalsainsid/herbalData.ts(99,5): error TS2741: Property '$$typeof' is missing in type 'IconType' but required in type 'ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>'.
+components/herbalsainsid/ResearcherValidation.tsx(130,28): error TS2304: Cannot find name 'herbalPlants'.
